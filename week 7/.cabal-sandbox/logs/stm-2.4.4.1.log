@@ -1,0 +1,20 @@
+cabal: Entering directory '/var/folders/s3/85l8wkw562b2l9rsz0h235440000gn/T/cabal-tmp-34267/stm-2.4.4.1'
+Configuring stm-2.4.4.1...
+Building stm-2.4.4.1...
+Preprocessing library stm-2.4.4.1...
+[ 1 of 10] Compiling Control.Sequential.STM ( Control/Sequential/STM.hs, dist/dist-sandbox-63f2de98/build/Control/Sequential/STM.o )
+[ 2 of 10] Compiling Control.Concurrent.STM.TBQueue ( Control/Concurrent/STM/TBQueue.hs, dist/dist-sandbox-63f2de98/build/Control/Concurrent/STM/TBQueue.o )
+[ 3 of 10] Compiling Control.Concurrent.STM.TQueue ( Control/Concurrent/STM/TQueue.hs, dist/dist-sandbox-63f2de98/build/Control/Concurrent/STM/TQueue.o )
+[ 4 of 10] Compiling Control.Concurrent.STM.TChan ( Control/Concurrent/STM/TChan.hs, dist/dist-sandbox-63f2de98/build/Control/Concurrent/STM/TChan.o )
+[ 5 of 10] Compiling Control.Concurrent.STM.TMVar ( Control/Concurrent/STM/TMVar.hs, dist/dist-sandbox-63f2de98/build/Control/Concurrent/STM/TMVar.o )
+[ 6 of 10] Compiling Control.Concurrent.STM.TVar ( Control/Concurrent/STM/TVar.hs, dist/dist-sandbox-63f2de98/build/Control/Concurrent/STM/TVar.o )
+[ 7 of 10] Compiling Control.Concurrent.STM.TArray ( Control/Concurrent/STM/TArray.hs, dist/dist-sandbox-63f2de98/build/Control/Concurrent/STM/TArray.o )
+[ 8 of 10] Compiling Control.Monad.STM ( Control/Monad/STM.hs, dist/dist-sandbox-63f2de98/build/Control/Monad/STM.o )
+[ 9 of 10] Compiling Control.Concurrent.STM ( Control/Concurrent/STM.hs, dist/dist-sandbox-63f2de98/build/Control/Concurrent/STM.o )
+[10 of 10] Compiling Control.Concurrent.STM.TSem ( Control/Concurrent/STM/TSem.hs, dist/dist-sandbox-63f2de98/build/Control/Concurrent/STM/TSem.o )
+Creating package registration file:
+/var/folders/s3/85l8wkw562b2l9rsz0h235440000gn/T/pkgConf-stm-2.4.45305119672110010672.1
+Installing library in /Users/SamuelM/Documents/PandA1/week
+7/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.1/stm-2.4.4.1-4z2NRWnB0NIIUvSJsHW0kF
+Registering stm-2.4.4.1...
+cabal: Leaving directory '/var/folders/s3/85l8wkw562b2l9rsz0h235440000gn/T/cabal-tmp-34267/stm-2.4.4.1'

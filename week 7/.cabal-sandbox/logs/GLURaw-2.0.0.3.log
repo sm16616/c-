@@ -1,0 +1,16 @@
+cabal: Entering directory '/var/folders/s3/85l8wkw562b2l9rsz0h235440000gn/T/cabal-tmp-34265/GLURaw-2.0.0.3'
+Configuring GLURaw-2.0.0.3...
+Building GLURaw-2.0.0.3...
+Preprocessing library GLURaw-2.0.0.3...
+[1 of 6] Compiling Graphics.GLU.TypesInternal ( src/Graphics/GLU/TypesInternal.hs, dist/dist-sandbox-63f2de98/build/Graphics/GLU/TypesInternal.o )
+[2 of 6] Compiling Graphics.GLU.Callbacks ( src/Graphics/GLU/Callbacks.hs, dist/dist-sandbox-63f2de98/build/Graphics/GLU/Callbacks.o )
+[3 of 6] Compiling Graphics.GLU.Types ( src/Graphics/GLU/Types.hs, dist/dist-sandbox-63f2de98/build/Graphics/GLU/Types.o )
+[4 of 6] Compiling Graphics.GLU.Tokens ( src/Graphics/GLU/Tokens.hs, dist/dist-sandbox-63f2de98/build/Graphics/GLU/Tokens.o )
+[5 of 6] Compiling Graphics.GLU.Functions ( src/Graphics/GLU/Functions.hs, dist/dist-sandbox-63f2de98/build/Graphics/GLU/Functions.o )
+[6 of 6] Compiling Graphics.GLU     ( src/Graphics/GLU.hs, dist/dist-sandbox-63f2de98/build/Graphics/GLU.o )
+Creating package registration file:
+/var/folders/s3/85l8wkw562b2l9rsz0h235440000gn/T/pkgConf-GLURaw-2.0.02035308228158374933.3
+Installing library in /Users/SamuelM/Documents/PandA1/week
+7/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.1/GLURaw-2.0.0.3-4N2ghnPq61DFgP6VRFpOxm
+Registering GLURaw-2.0.0.3...
+cabal: Leaving directory '/var/folders/s3/85l8wkw562b2l9rsz0h235440000gn/T/cabal-tmp-34265/GLURaw-2.0.0.3'
